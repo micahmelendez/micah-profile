@@ -4,7 +4,6 @@ Computer Science student at UTSA with minors in Cybersecurity and Math. I'm focu
 ## About Me
 - Former CyberPatriot team captain
 - Studying for CompTIA Security+
-- I run a Cobblemon Minecraft server and I'm building my own Roblox game
 
 ## Skills
 Git, Bash, PowerShell, Linux
